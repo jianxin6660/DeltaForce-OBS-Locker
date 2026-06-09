@@ -31,11 +31,13 @@
 
 ---
 
-## 🎥 手机端功能演示视频
+## 🎥 手机端功能演示
 
-以下 GIF 展示手机端 APK 的核心效果（画面吸附 / 模拟输入演示），**会自动循环播放**：
-
-![手机端功能演示](./Mobile/demo_video.gif)
+<div align="center">
+  <img src="./Mobile/demo_video.gif" alt="手机端功能演示" width="400">
+  <br>
+  <em>手机端 APK 核心效果（画面吸附 / 模拟输入演示）</em>
+</div>
 
 ---
 
