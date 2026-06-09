@@ -14,7 +14,6 @@
 - **直接下载视频**： [`demo_video.mp4`](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker/raw/main/Mobile/demo_video.mp4) （右键另存为）
 - **在线播放**（建议下载后播放，GitHub 不支持直接嵌入）：
 
-[![视频预览]（可自行添加封面图）](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker/raw/main/Mobile/demo_video.mp4)
 
 *如果无法播放，请直接下载到本地，使用本地播放器打开。*
 
