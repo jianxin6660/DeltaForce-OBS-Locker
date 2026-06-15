@@ -174,12 +174,7 @@ YOLOv14 is not merely a incremental update. It introduces a fundamentally differ
 ## Citation
 
 ```bibtex
-@misc{yolov14,
-  title={YOLOv14: Unified Cross-Domain Real-Time Object Detection
-         with Adaptive Multi-View Representation},
-  author={Contributors},
-  year={2026}
-}
+ In preparation
 ```
 
 ---
