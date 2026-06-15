@@ -58,7 +58,7 @@
 
 | 子项目 | 主要技术栈 | 适合人群 | 详细文档 |
 |--------|-----------|----------|----------|
-| **电脑端** | Python, OpenCV, YOLOv14, OBS, SendInput | Python 初学者、计算机视觉爱好者 | [电脑端 README](https://github.com/ace-trump-tech/DeltaForce-Desktop/blob/main/README.md) |
+| **电脑端** | Python, OpenCV, YOLOv14, OBS, SendInput | Python 初学者、计算机视觉爱好者 | [电脑端 README](https://github.com/ace-trump-tech/DeltaForce-Locker/blob/desktop/Readme.md)|
 | **手机端** | Python 下载脚本 + APK | 普通用户、Android 测试者 | [手机端 README](https://github.com/ace-trump-tech/DeltaForce-Locker/blob/main/Mobile/README.md) |
 
 > 💡 **电脑端** 提供从零开始的 Python 编程实战教程（本地代码结构解析），其中 OBS 画面吸附功能正是基于 **YOLOv14** 目标检测框架实现；  
