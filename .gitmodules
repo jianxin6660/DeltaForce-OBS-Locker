@@ -6,3 +6,6 @@
 	path = Mobile
 	url = https://github.com/ace-trump-tech/DeltaForce-Locker.git
 	branch = mobile
+[submodule "yolov14"]
+	path = yolov14
+	url = https://github.com/zhangcbb/yolov14.git
